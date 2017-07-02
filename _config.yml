@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - vendor
