@@ -7,3 +7,5 @@ exclude:
   - LICENSE.md
   - README.md
   - vendor
+
+permalink: /:title
