@@ -1,1 +1,5 @@
+---
+title: Recipes
+---
+
 Recipes
