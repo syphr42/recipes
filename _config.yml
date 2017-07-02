@@ -9,3 +9,5 @@ exclude:
   - vendor
 
 permalink: /:title
+
+baseurl: /recipes

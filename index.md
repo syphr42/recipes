@@ -9,7 +9,7 @@ title: Recipes
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
