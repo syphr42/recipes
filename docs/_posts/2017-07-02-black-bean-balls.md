@@ -2,12 +2,14 @@
 title: Black Bean Balls
 ---
 
-# Source
+# {{ page.title }}
+
+## Based On
 Plant Based on a Budget
 <br>
 <http://plantbasedonabudget.com/recipe/black-bean-meatballs/>
 
-# Ingredients
+## Ingredients
 *   15 oz. Black Beans (1 can)
 *   1 cup Oat Flour (oats ground up)
 *   1 cup Rolled Oats
@@ -19,7 +21,7 @@ Plant Based on a Budget
 *   1 tsp Garlic powder
 *   1 tsp Onion powder
 
-# Steps
+## Steps
 1.  Heat a medium-sized skillet to medium-high heat or preheat your oven to 425 degrees F (options for frying or baking, your choice).
 2.  In a food processor pulse oats & flax seeds (if whole, not ground) till slightly chunky powder. Set aside in a medium bowl.
 3.  Drain your black beans and rinse till water runs clear, fill your can back up with water (with the beans still in the can) and pour it all into your food processor. Pulse till smooth.
