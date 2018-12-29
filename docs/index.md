@@ -51,11 +51,10 @@ The following part removes dulpicated categories and invalid categories like bla
 		 {% if post.category == category %}
 		 <li>
 		 <h3>
-		 <a href="{{ post.url }}">
+		 <a href="{{ post.url | prepend: site.baseurl }}">
 		 {{ post.title }}
 		 <small>{{ post.date | date_to_string }}</small>
 		 </a>
-		 <a class="category" href="/blog/category/#{{ category | slugify }}">{{ category }}</a>
 		 </h3>
 		 </li>
 		 {% endif %}
