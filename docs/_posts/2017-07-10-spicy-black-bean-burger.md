@@ -11,19 +11,19 @@ Kara Lydon
 
 ## Ingredients
 ### Burgers
-*   1/2 cup diced red bell pepper (about 1/2 bell pepper)
-*   1 1/2 cups black beans
-*   1/4 cup minced shallot (about 1 shallot)
+*   ½ cup diced red bell pepper (about 1/2 bell pepper)
+*   1½ cups black beans
+*   ¼ cup minced shallot (about 1 shallot)
 *   1 cup cooked quinoa
-*   1/2 cup spicy hummus
-*   1/3 cup quinoa flakes
-*   1/4 teaspoon chipotle powder
-*   1/2 teaspoon salt
+*   ½ cup spicy hummus
+*   ⅓ cup quinoa flakes
+*   ¼ teaspoon chipotle powder
+*   ½ teaspoon salt
 *   8 hamburger buns
 *   Optional toppings: caramelized onions, lettuce, tomato, pickles
 
 ### Chipotle Sauce
-*   1/2 cup Greek yogurt (mayo substitute works too)
+*   ½ cup Greek yogurt (mayo substitute works too)
 *   1 tablespoon chipotle in adobo sauce (about one chipotle pepper)
 *   2 tablespoons ketchup
 *   1 tablespoon olive oil

@@ -15,8 +15,8 @@ Plant Based on a Budget
 *   1 cup Rolled Oats
 *   Bread Crumbs (optional)
 *   Oil (optional, if you fry them)
-*   1 1/2 tbsp Flax Seeds (ground)
-*   1 1/2 tsp Salt
+*   1½ tbsp Flax Seeds (ground)
+*   1½ tsp Salt
 *   1 tsp Smoked Paprika
 *   1 tsp Garlic powder
 *   1 tsp Onion powder
