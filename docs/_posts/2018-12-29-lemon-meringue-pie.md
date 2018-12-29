@@ -1,5 +1,7 @@
 ---
 title: Lemon Meringue Pie
+category: Dessert
+tags: [pie]
 ---
 
 # {{ page.title }}
