@@ -50,7 +50,7 @@ The following part removes duplicated categories and invalid categories like bla
   {% for post in site.posts %}
     {% if post.category == category %}
     <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date_to_string }}</small></a>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>&lt;{ post.date | date_to_string }}&gt;</small></a>
     </li>
     {% endif %}
   {% endfor %}
