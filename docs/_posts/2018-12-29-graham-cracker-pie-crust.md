@@ -1,5 +1,7 @@
 ---
 title: Graham Cracker Pie Crust
+category: Support
+tags: [pie]
 ---
 
 # {{ page.title }}

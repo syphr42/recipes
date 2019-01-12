@@ -1,5 +1,7 @@
 ---
 title: Whipped Cream
+category: Dessert
+tags: [topping]
 ---
 
 # {{ page.title }}

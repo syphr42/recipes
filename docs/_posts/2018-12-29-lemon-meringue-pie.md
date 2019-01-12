@@ -1,7 +1,7 @@
 ---
 title: Lemon Meringue Pie
 category: Dessert
-tags: [pie]
+tags: [pie, fruit, lemon]
 ---
 
 # {{ page.title }}

@@ -1,5 +1,7 @@
 ---
 title: Spicy Black Bean Burger
+category: Entrée
+tags: [vegan]
 ---
 
 # {{ page.title }}

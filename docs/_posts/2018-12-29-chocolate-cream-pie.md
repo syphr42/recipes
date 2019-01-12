@@ -1,5 +1,7 @@
 ---
 title: Chocolate Cream Pie
+category: Dessert
+tags: [pie, chocolate]
 ---
 
 # {{ page.title }}

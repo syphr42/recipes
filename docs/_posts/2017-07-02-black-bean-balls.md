@@ -1,5 +1,7 @@
 ---
 title: Black Bean Balls
+category: Entrée
+tags: [vegan]
 ---
 
 # {{ page.title }}

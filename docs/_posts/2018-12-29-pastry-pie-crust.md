@@ -1,5 +1,7 @@
 ---
 title: Pastry Pie Crust
+category: Support
+tags: [pie]
 ---
 
 # {{ page.title }}

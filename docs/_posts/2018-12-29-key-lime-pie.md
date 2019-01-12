@@ -1,5 +1,7 @@
 ---
 title: Key Lime Pie
+category: Dessert
+tags: [pie, fruit, lime]
 ---
 
 # {{ page.title }}
