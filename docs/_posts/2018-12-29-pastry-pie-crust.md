@@ -16,8 +16,11 @@ King Arthur Flour
 * ¼ cup (1/2 stick) cold unsalted butter
 * ⅛ to ¼ cup ice water
 
+### Optional
+* 2 teaspoons sugar
+
 ## Steps
-1.  In a medium bowl, whisk together the flour and salt.
+1.  In a medium bowl, whisk together the flour, salt, and optional sugar.
 2.  Work in the shortening until it's in lumps the size of small peas.
 3.  Dice the butter into 1/2" pieces, and work it into the mixture until you have flakes of butter the size of your fingernail.
 4.  Add the water 2 tablespoons at a time, mixing with a fork as you sprinkle the water into the dough.
