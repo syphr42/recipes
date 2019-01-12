@@ -23,7 +23,7 @@ The following part extracts all the categories from your posts and sort them, so
 {% endcomment %}
 {% assign rawcategories = "" %}
 {% for post in site.posts %}
-	{% assign rawcategories = rawcategories | append:post.category %}
+	{% assign rawcategories = rawcategories | append:post.category | append:'|' %}
 {% endfor %}
 {% assign rawcategories = rawcategories | split:'|' | sort %}
 
