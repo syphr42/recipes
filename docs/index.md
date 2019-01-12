@@ -29,7 +29,7 @@ The following part extracts all the categories from your posts and sort them, so
 
 {% comment %}
 =======================
-The following part removes dulpicated categories and invalid categories like blank.
+The following part removes duplicated categories and invalid categories like blank.
 =======================
 {% endcomment %}
 {% assign categories = "" %}
@@ -73,7 +73,7 @@ The following part extracts all the tags from your posts and sort tags, so that 
 
 {% comment %}
 =======================
-The following part removes dulpicated tags and invalid tags like blank tag.
+The following part removes duplicated tags and invalid tags like blank tag.
 =======================
 {% endcomment %}
 {% assign tags = "" %}
