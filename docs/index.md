@@ -88,6 +88,4 @@ The following part removes duplicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
-{% for tag in tags %}
-<a href="#{{ tag | slugify }}">{{ tag }}</a>
-{% endfor %}
+{% for tag in tags %}[ <a href="#{{ tag | slugify }}">{{ tag }}</a> ] {% endfor %}
