@@ -45,7 +45,7 @@ The following part removes dulpicated categories and invalid categories like bla
 {% endfor %}
 
 {% for category in categories %}
-	<h2 id="{{ category | slugify }}">{{ category }}</h2>
+## {{ category | slugify }}
 	<ul>
 	 {% for post in site.posts %}
 		 {% if post.category == category %}
