@@ -9,7 +9,7 @@ title: Recipes
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>&lt;{{ post.date | date_to_string }}&gt;</small></a>
     </li>
   {% endfor %}
 </ul>
