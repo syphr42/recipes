@@ -46,20 +46,15 @@ The following part removes dulpicated categories and invalid categories like bla
 
 {% for category in categories %}
 ## {{ category }}
-	<ul>
-	 {% for post in site.posts %}
-		 {% if post.category == category %}
-		 <li>
-		 <h3>
-		 <a href="{{ post.url | prepend: site.baseurl }}">
-		 {{ post.title }}
-		 <small>{{ post.date | date_to_string }}</small>
-		 </a>
-		 </h3>
-		 </li>
-		 {% endif %}
-	 {% endfor %}
-	</ul>
+<ul>
+  {% for post in site.posts %}
+    {% if post.category == category %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date_to_string }}</small></a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 {% endfor %}
 
 # Tags
