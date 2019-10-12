@@ -26,6 +26,6 @@ Honest & Tasty
 2.  Add sweetened and condensed milk and mix for 3 minutes or until thickened.
 3.  Add lime juice and mix until combined.
 4.  Pour mixture into [pie crust](graham-cracker-pie-crust).
-5.  Place in oven for 15 minutes. Pie will rise slightly but the filling won't change color.
+5.  Place in oven for 15 minutes at 375°F. Pie will rise slightly but the filling won't change color.
 6.  Allow to cool for ½ hour at room temperature before cooling completely in the fridge for at least 2 hours. You can also place it in the freezer instead of the fridge to cool it quicker. Just remember to remove it before it turns into ice cream!
 7.  Top with [whipped cream](whipped-cream) and remaining lime zest.

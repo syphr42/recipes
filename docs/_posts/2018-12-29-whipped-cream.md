@@ -20,4 +20,4 @@ King Arthur Flour
 
 ## Steps
 1.  Place the heavy cream in a chilled mixing bowl. Whip until the whisk or beaters begin to leave tracks in the bowl.
-2.  Add the sugar and optional vanilla and whip until the cream holds a medium peak.
+2.  Add the sugar and optional vanilla and whip on medium speed until the cream holds a medium peak.
