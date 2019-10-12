@@ -47,7 +47,8 @@ The following part removes duplicated categories and invalid categories like bla
 {% for category in categories %}
 ## {{ category }}
 <ul>
-  {% for post in site.posts %}
+  {% assign sortedposts = (site.posts | sort: 'title') %}
+  {% for post in sortedposts %}
     {% if post.category == category %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>&lt;{{ post.date | date_to_string }}&gt;</small>
