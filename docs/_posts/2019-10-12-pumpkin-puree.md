@@ -1,7 +1,7 @@
 ---
 title: Pumpkin Puree
 category: Dessert
-tags: [pie, pumpkin]
+tags: [pie, pumpkin, ingredient]
 ---
 
 # {{ page.title }}
