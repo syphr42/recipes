@@ -12,8 +12,8 @@ Honest & Tasty
 <http://honestandtasty.com/the-best-key-lime-pie-recipe/>
 
 ## Ingredients
-* 7 tablespoons butter, melted
-* 2 cups graham cracker crumbs (12 full graham crackers)
+* 6 tablespoons butter, melted
+* 2 cups graham cracker crumbs (9 full graham crackers)
 * ¼ cup Sugar
 * ¼ teaspoon Sea Salt
 
