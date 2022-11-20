@@ -15,7 +15,7 @@ King Arthur Flour
 * 1½ cups unbleached all-purpose flour
 * ½ teaspoon salt
 * ¼ cup vegetable shortening
-* ¼ cup (1/2 stick) cold unsalted butter
+* ¼ cup (½ stick) cold unsalted butter
 * ⅛ to ¼ cup ice water
 
 ### Optional
