@@ -30,7 +30,7 @@ King Arthur Flour
 6.  Pat the dough into a disk 3/4" thick, rolling the disk to smooth its edges.
 7.  Wrap the pastry in plastic and refrigerate it for 30 minutes before rolling.
 8.  Lightly grease a 9" pie pan that's at least 2" deep.
-9.  Roll the pastry into a 13" circle.
+9.  Roll the pastry into a 13" circle (place the dough between two sheets of wax paper for an easier rolling experience).
 10. Transfer it to the prepared pan, and trim the edges so they overlap the edge by an inch all the way around.
 11. Tuck the edges up and under, and flute or crimp them.
 12. Put the lined pie pan in the refrigerator to chill for 10 minutes.
